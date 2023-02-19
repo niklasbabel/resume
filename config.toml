@@ -7,7 +7,7 @@ enableGitInfo = false
 googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
-    author = "John Doe"
+    author = "Niklas"
     description = "Demo Resume"
     og_image = "better-software.png"
     twitterName = "@bascodes"
