@@ -89,10 +89,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I am the 10 eggs developer you are looking for. With over 15 years of experience in software development, I bring a wealth of knowledge and expertise to my clients. As a motivated and creative engineer, I excel in both independent and team environments,
-and have a passion for new challenges and attention to detail. My experience includes working as a consultant, process engineer, and software developer in various industries including e-commerce, financial
-services, and biotechnology. I have also conducted numerous training workshops covering topics such as AWS architecture, Python, Tableau, and more. I am dedicated to delivering outstanding value to my
-clients and am excited to bring my skills to new projects."
+        text = "I am the 10 eggs developer you are looking for. With over 15 years of experience in software development, I bring a wealth of knowledge and expertise to my clients. As a motivated and creative engineer, I excel in both independent and team environments, and have a passion for new challenges and attention to detail. My experience includes working as a consultant, process engineer, and software developer in various industries including e-commerce, financial services, and biotechnology. I have also conducted numerous training workshops covering topics such as AWS architecture, Python, Tableau, and more. I am dedicated to delivering outstanding value to my clients and am excited to bring my skills to new projects."
 
 
     [params.experience]
