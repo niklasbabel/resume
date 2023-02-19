@@ -16,8 +16,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "John Doe"
-        tagline = "Demo Resume"
+        name = "Niklas"
+        tagline = "Resume"
         avatar = "bas-steins-2.jpg"
 
     [params.contact]
