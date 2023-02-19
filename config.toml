@@ -54,7 +54,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "Master of Desaster"
+        degree = ":) Degree of Life"
         university = "University of Life"
         dates = "1990-present"
 
